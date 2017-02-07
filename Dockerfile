@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER felicitychou<felicitychou@antiy.cn>
+MAINTAINER felicitychou<felicitychou@hotmail.com>
 
 RUN apt-get update && apt-get install -y \
 tcpdump \
